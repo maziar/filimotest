@@ -30,3 +30,8 @@ The architecture is **MVVM!**, because of the project doesn't have special **CRU
 > [**SDWebImage**](https://github.com/SDWebImage/SDWebImage) -> for caching images
 
 
+# Development Target
+
+minimum development target is 13.0
+
+
