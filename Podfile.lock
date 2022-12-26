@@ -4,12 +4,9 @@ PODS:
   - IQKeyboardManagerSwift (6.5.10)
   - MarqueeLabel (4.3.0)
   - ObjectMapper (4.2.0)
-  - Queuer (2.1.1)
-  - RevealingSplashView (0.6.0)
   - SDWebImage (5.13.4):
     - SDWebImage/Core (= 5.13.4)
   - SDWebImage/Core (5.13.4)
-  - SwiftLint (0.49.1)
   - SwiftyJSON (5.0.1)
   - UIView-Shimmer (1.0.4)
 
@@ -19,10 +16,7 @@ DEPENDENCIES:
   - IQKeyboardManagerSwift
   - MarqueeLabel
   - ObjectMapper
-  - Queuer
-  - RevealingSplashView
   - SDWebImage
-  - SwiftLint
   - SwiftyJSON
   - UIView-Shimmer
 
@@ -33,10 +27,7 @@ SPEC REPOS:
     - IQKeyboardManagerSwift
     - MarqueeLabel
     - ObjectMapper
-    - Queuer
-    - RevealingSplashView
     - SDWebImage
-    - SwiftLint
     - SwiftyJSON
     - UIView-Shimmer
 
@@ -46,13 +37,10 @@ SPEC CHECKSUMS:
   IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
   MarqueeLabel: 02f5ac8fd6877c94564556cb93fa86c70c08baeb
   ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
-  Queuer: 65c5f6b821417bc62da23d63d570ec9d22bee4de
-  RevealingSplashView: 40c5a770894459736acdc95655eeba0dd30ce91c
   SDWebImage: e5cc87bf736e60f49592f307bdf9e157189298a3
-  SwiftLint: 32ee33ded0636d0905ef6911b2b67bbaeeedafa5
   SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
   UIView-Shimmer: ff0a32c73d67c7dbdea3d9e530538b10d18aea56
 
-PODFILE CHECKSUM: adbd8772ee315b06173dffb3c79d3411340a0990
+PODFILE CHECKSUM: e14507905ef005e8ffdf94d9f0c1e2235a42723a
 
 COCOAPODS: 1.11.3

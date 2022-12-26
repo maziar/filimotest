@@ -10,13 +10,10 @@ target 'FilimoTest' do
   pod 'IQKeyboardManagerSwift'
   pod 'Alamofire'
   pod 'CRRefresh'
-  pod 'Queuer'
-  pod 'RevealingSplashView'
   pod 'UIView-Shimmer'
   pod 'MarqueeLabel'
   pod 'ObjectMapper'
   pod 'SwiftyJSON'
-  pod 'SwiftLint'
   pod 'SDWebImage'
 
   target 'FilimoTestTests' do
