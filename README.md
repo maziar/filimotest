@@ -1,10 +1,15 @@
 # Architecture
-## MVVM
 
-The architecture is **MVVM!**, because of the project doesn't have special **CRUD** function and didn't use it.
+**_MVVM_**
+
+The architecture is **MVVM!**, because of the project doesn't have special **CRUD** function and didn't use it, if the project was **CRUD** base, the architecture should be **CLEAN**
+
+
+[![MVVM](https://rehansaeed.com/images/hero/MVVM-1366x768.png)](https://medium.com/@abhilash.mathur1891/mvvm-in-ios-swift-aa1448a66fb4)
 
 # PACKAGE MANAGER
-## POD
+
+**_POD_**
 
 **POD** is package manager that used in the project and the list of all components are:
 
