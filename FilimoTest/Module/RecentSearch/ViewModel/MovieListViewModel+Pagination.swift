@@ -22,7 +22,7 @@ extension MovieListViewModel {
     }
     
     var listPageSize: Int {
-        var page = movieList?.count ?? .zero / IntSize.pageSize.rawValue
+        var page = (movieList?.count ?? .zero) / IntSize.pageSize.rawValue
         if page == .zero { page = 1 }
         return Int(ceil(Float(page)))
     }
